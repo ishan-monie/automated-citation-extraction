@@ -1,0 +1,26 @@
+# ── Core (required) — pipeline runs with just these ──────────────────────────
+openai>=1.0
+pandas>=1.5
+rapidfuzz>=3.0
+openpyxl>=3.1            # reading the RlA / bibliography .xlsx
+
+# ── Tier-up (optional) — each one auto-activates if installed ─────────────────
+# Stage 2 candidate detection via real NER (multilingual person/date anchors):
+#   pip install spacy && python -m spacy download xx_ent_wiki_sm
+# spacy>=3.7
+
+# Stage 5 entity linking via multilingual embeddings (better author clustering):
+#   pip install sentence-transformers
+# sentence-transformers>=2.2
+
+# Stage 3 GROBID reference parser — run the server separately, then set GROBID_URL:
+#   docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.8.0
+#   export GROBID_URL=http://localhost:8070
+# (no python package needed; uses requests)
+requests>=2.28
+
+# ── If you go the fine-tuning route for stage 3 (domain-adapted parser) ───────
+# transformers>=4.40
+# torch>=2.0
+# datasets>=2.18
+# seqeval                 # token-classification metrics

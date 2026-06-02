@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:z="http://www.zotero.org/namespaces/export#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:bib="http://purl.org/net/biblio#"
+         xmlns:dcterms="http://purl.org/dc/terms/">
+  <bib:Article rdf:about="#item_0">
+    <dc:title>Ebeling, AfK 2 (1924/25) 28-30</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Ebeling</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1924/25</dc:date>
+    <dcterms:isPartOf>W. Andrae (ed.), Farbige Keramik aus Assur und ihre Vorstufen in altassyrischen Wandmalereien (Berlin 1923).</dcterms:isPartOf>
+    <z:volume>2</z:volume>
+    <bib:pages>28-30</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_1">
+    <dc:title>Fragment einer Mumienbinde im Museum fur Volker- kunde in Hamburg», SAK 36 (2007) 1-14</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Fragment einer Mumienbinde im Museum fur Volkerkunde in Hamburg</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2007</dc:date>
+    <dcterms:isPartOf>1. F. Thureau-Dangin, Die sumerischen und akkadischen Königsinschriften (= VAB 1, 1907; unveränd. fotomechan. Nachdruck: 1972).
+2. Studien zur altägyptischen Kultur (Hamburg 1974ff.).</dcterms:isPartOf>
+    <z:volume>36</z:volume>
+    <bib:pages>1-14</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_2">
+    <dc:title>Egypt on St Mark’s Square, Venice, Italy</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Lucy Gordan-Rastelli</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2008</dc:date>
+    <dcterms:isPartOf>KMT</dcterms:isPartOf>
+    <z:volume>19</z:volume>
+    <bib:pages>71-76</bib:pages>
+    <dc:description>confidence=0.8; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_3">
+    <dc:title>Le Cabinet d’Uriage et sa contribution aux débuts de l’égyptologie (1843-1916)</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Djedmoutefankh et Psamétique</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1843-1916</dc:date>
+    <dcterms:isPartOf>Le chateau d’Uriage, son cabinet de curios</dcterms:isPartOf>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_4">
+    <dc:title>AfO 17 [1954/56] 353</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Gurney</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1954/56</dc:date>
+    <dcterms:isPartOf>Archiv für Orientforschung (Berlin/Wien [etc.] 3/1926ff; Bd. 1–2/1923–1924/1925 als AfK = Archiv für Keilschriftforschung ersch.); Beih. (1933ff.).</dcterms:isPartOf>
+    <z:volume>17</z:volume>
+    <bib:pages>353-356</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_5">
+    <dc:title>Das babylonische Weltschdpfungslied umschrieben und iibersetzt</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>AOTU</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1921</dc:date>
+    <dcterms:isPartOf>AOTU 2/IV</dcterms:isPartOf>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_6">
+    <dc:title>ATAT?</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>H. Gressmann</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1926</dc:date>
+    <bib:pages>108-129</bib:pages>
+    <dc:description>confidence=0.8; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_7">
+    <dc:title>The Babylonian Epic of Creation</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Langdon</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1923</dc:date>
+    <dcterms:isPartOf>Altorientalische Texte und Untersuchungen, 1–2 (Leiden/Breslau 1916–1921).</dcterms:isPartOf>
+    <z:volume>2/IV</z:volume>
+    <bib:pages>313 ff</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_8">
+    <dc:title>Creation (1923)</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Creation</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1923</dc:date>
+    <dcterms:isPartOf>Altorientalische Texte und Untersuchungen, 1–2 (Leiden/Breslau 1916–1921).</dcterms:isPartOf>
+    <z:volume>2/IV</z:volume>
+    <bib:pages>313 ff</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_9">
+    <dc:title>AfK 2 (1924/25) 28-30</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Ebeling</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1924/25</dc:date>
+    <dcterms:isPartOf>W. Andrae (ed.), Farbige Keramik aus Assur und ihre Vorstufen in altassyrischen Wandmalereien (Berlin 1923).</dcterms:isPartOf>
+    <z:volume>2</z:volume>
+    <bib:pages>28-30</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_10">
+    <dc:title>KAR 313</dc:title>
+    <dcterms:isPartOf>E. Ebeling, Keilschrifttexte aus Assur religiösen Inhalts, 1 (H. 1–4) –2 (H. 1–5[d. g. R. 5–9]) (= Ausgrabungen der DOG in Assur E/2 = WVDOG 28/1–4, 1915–1919; 34/1–5[d. g. R. 5–9], 1920–1923; Neudruck: Osnabrück 1972/70).</dcterms:isPartOf>
+    <bib:pages>313</bib:pages>
+    <dc:description>confidence=0.55; manuscript-ref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_11">
+    <dc:title>la collection Thédenat-Duvent</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>gyptiennes méconnue</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2007</dc:date>
+    <dcterms:isPartOf>RdE</dcterms:isPartOf>
+    <z:volume>58</z:volume>
+    <bib:pages>201-236</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_12">
+    <dc:title>Minerva 19 (2008) 8-13</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>f the Nile from the Museum of Fine Arts Boston</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2008</dc:date>
+    <dcterms:isPartOf>Minerva</dcterms:isPartOf>
+    <z:volume>19</z:volume>
+    <bib:pages>8-13</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_13">
+    <dc:title>The Standard Babylonian Epic of Gilgamesh</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>S. Parpola</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1997</dc:date>
+    <dcterms:isPartOf>J</dcterms:isPartOf>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_14">
+    <dc:title>The Standard Babylonian Etana Epic</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>J. Novotny</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2001</dc:date>
+    <dcterms:isPartOf>und A</dcterms:isPartOf>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_15">
+    <dc:title>The Standard Babylonian Anzu Epic</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Annus, A.</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2001</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_16">
+    <dc:title>Enuma eli3</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Deimel</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1912</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_17">
+    <dc:title>STT I</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Gurney</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1957</dc:date>
+    <dcterms:isPartOf>Archiv für Orientforschung (Berlin/Wien [etc.] 3/1926ff; Bd. 1–2/1923–1924/1925 als AfK = Archiv für Keilschriftforschung ersch.); Beih. (1933ff.).</dcterms:isPartOf>
+    <z:volume>17</z:volume>
+    <bib:pages>353-356</bib:pages>
+    <dc:description>confidence=0.9; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_18">
+    <dc:title>ATAT?</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Ebelings Ubersetzung wurde ersetzt durch Gressmann</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1926</dc:date>
+    <bib:pages>108-129</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_19">
+    <dc:title>Schott, OLZ 45 (1942</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Schott</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1942</dc:date>
+    <dcterms:isPartOf>Orientalistische Literaturzeitung. Monatsschrift für die Wissenschaft (bis Bd. 23/1920: vom Vorderen Orient und seine Beziehungen zum Kulturkreise des Mittelmeeres) vom ganzen Orient und seine(n) Beziehungen zu den angrenzenden Kulturkreisen (Berlin/Leipzig 1898ff.).</dcterms:isPartOf>
+    <z:volume>45</z:volume>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_20">
+    <dc:title>Wilson, JNES 20 (1961</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Wilson</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1961</dc:date>
+    <dcterms:isPartOf>Journal of Near Eastern Studies (Chicago 1942ff.). Fortsetzung von: AJSL.</dcterms:isPartOf>
+    <z:volume>20</z:volume>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_21">
+    <dc:title>Le poéme babylonien de la Création</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Rykle Borger</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1935</dc:date>
+    <bib:pages>KAR 313 ff</bib:pages>
+    <dc:description>confidence=0.8; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_22">
+    <dc:title>OLZ 45 (1942) Sp. 165-172</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Schott</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1942</dc:date>
+    <dcterms:isPartOf>Orientalistische Literaturzeitung. Monatsschrift für die Wissenschaft (bis Bd. 23/1920: vom Vorderen Orient und seine Beziehungen zum Kulturkreise des Mittelmeeres) vom ganzen Orient und seine(n) Beziehungen zu den angrenzenden Kulturkreisen (Berlin/Leipzig 1898ff.).</dcterms:isPartOf>
+    <z:volume>45</z:volume>
+    <bib:pages>Sp. 165-172</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_23">
+    <dc:title>OLZ 64 (1969) 456-458</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>In meiner Rezension zu L&amp;P in OLZ 64 (1969) 456-458 habe ich mich bemiiht</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1969</dc:date>
+    <dcterms:isPartOf>Orientalistische Literaturzeitung. Monatsschrift für die Wissenschaft (bis Bd. 23/1920: vom Vorderen Orient und seine Beziehungen zum Kulturkreise des Mittelmeeres) vom ganzen Orient und seine(n) Beziehungen zu den angrenzenden Kulturkreisen (Berlin/Leipzig 1898ff.).</dcterms:isPartOf>
+    <z:volume>64</z:volume>
+    <bib:pages>456-458</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_24">
+    <dc:title>JNES 20 (1961) 154-179</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Fir Tafel V liegt die stark erweiterte Bearbeitung von Landsberger und Kinnier Wilson</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1961</dc:date>
+    <dcterms:isPartOf>Journal of Near Eastern Studies (Chicago 1942ff.). Fortsetzung von: AJSL.</dcterms:isPartOf>
+    <z:volume>20</z:volume>
+    <bib:pages>154-179</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_25">
+    <dc:title>CRRA 39</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Lambert</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1997</dc:date>
+    <dcterms:isPartOf>Heidelberger Studien zum Alten Orient</dcterms:isPartOf>
+    <z:volume>6</z:volume>
+    <bib:pages>S</bib:pages>
+    <dc:description>confidence=0.8; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_26">
+    <dc:title>Als ich 1978 OECT 6 durchkollatonierte, umschrieb ich jed</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Als ich 1978 OECT 6 durchkollatonierte, umschrieb ich jed</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1978</dc:date>
+    <dcterms:isPartOf>OECT 6</dcterms:isPartOf>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_27">
+    <dc:title>Textmate</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>HKL</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <z:volume>I-II</z:volume>
+    <bib:pages>bis 1973</bib:pages>
+    <dc:description>confidence=0.65; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_28">
+    <dc:title>Sprache. Labats Manuel</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Labats Manuel</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1948</dc:date>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_29">
+    <dc:title>Lexique assyrien-francais</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Ant. Saubin</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1928</dc:date>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_30">
+    <dc:title>Bottéro, Lorsque les dieux faisaient Vhomme (1989) 602-679, Dalley, Myths (2000) 228-277</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Bottéro, Lorsque les dieux faisaient Vhomme (1989) 602-679, Dalley, Myths (2000) 228-277 u</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1989, 2000</dc:date>
+    <bib:pages>602-679, 228-277</bib:pages>
+    <dc:description>confidence=0.6; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_31">
+    <dc:title>Lorsque les dieux faisaient Vhomme</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Dalley, Myths (2000) 228-277 und 342, Foster, Before the M</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1989, 2000</dc:date>
+    <bib:pages>602-679</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_32">
+    <dc:title>Babylonian Genesis?</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Heidel</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1951</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_33">
+    <dc:title>Genesis? (1951), Labat, Religions (1970) 36-70, Pritchard, ANET3 (1969) 60-70</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Genesis?, Labat, Pritchard, Speiser und Grayson</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1951, 1970, 1969</dc:date>
+    <dcterms:isPartOf>Religions, ANET3</dcterms:isPartOf>
+    <z:volume>36-70, 60-70, 501-503</z:volume>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_34">
+    <dc:title>Opera minora</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>De Liagre Bohl</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1953</dc:date>
+    <bib:pages>282-312 und 504-508</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_35">
+    <dc:title>A-nu-um and An: Anu Sa améli</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Assyro-Babylonian god-lists An: ”A-nu-um and An: Anu Sa améli</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1998</dc:date>
+    <dcterms:isPartOf>New Haven</dcterms:isPartOf>
+    <bib:pages>Tafel II 185-235</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_36">
+    <dc:title>Chaldean Genesis, AL?</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>George Smith, Delitzsch</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1875, 1878</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_37">
+    <dc:title>Der Keilschrifttext von Lambert und Parker</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Lambert und Parker</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1966</dc:date>
+    <dcterms:isPartOf>Orientalia</dcterms:isPartOf>
+    <z:volume>26</z:volume>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_38">
+    <dc:title>Der Keilschrifttext von Lambert und Parker</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Lambert und Parker</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1966</dc:date>
+    <dcterms:isPartOf>Orientalia</dcterms:isPartOf>
+    <z:volume>26</z:volume>
+    <dc:description>confidence=0.95; xref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_39">
+    <dc:title>Kécher, AfO 16 (1952/53) 323</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Kécher</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1952/53</dc:date>
+    <dcterms:isPartOf>Archiv für Orientforschung (Berlin/Wien [etc.] 3/1926ff; Bd. 1–2/1923–1924/1925 als AfK = Archiv für Keilschriftforschung ersch.); Beih. (1933ff.).</dcterms:isPartOf>
+    <z:volume>16</z:volume>
+    <bib:pages>323</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_40">
+    <dc:title>1973/74 habe ich Lamberts Kopienhefte durchsehen diirfen (siehe HKL II S</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Lamberts</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1973/74</dc:date>
+    <dcterms:isPartOf>HKL II</dcterms:isPartOf>
+    <bib:pages>S</bib:pages>
+    <dc:description>confidence=0.8; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_41">
+    <dc:title>Buch BIWA (1996</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>In meinem Buch BIWA</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1996</dc:date>
+    <bib:pages>S</bib:pages>
+    <dc:description>confidence=0.6; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_42">
+    <dc:title>Schultexte zusammenge</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Chr.</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2000</dc:date>
+    <dcterms:isPartOf>Alter Orient und Altes Testament. Veröffentlichungen zur Kultur und Geschichte des Alten Orients und des Alten Testaments (Münster etc. 1/1969; 2/1968ff.; AOAT 278 = SED); S = Sonderreihe (1971ff.).</dcterms:isPartOf>
+    <z:volume>275</z:volume>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_43">
+    <dc:title>Das Fragment aus Edinburg</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Deimel</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1912</dc:date>
+    <dcterms:isPartOf>Proceedings of the Society of Biblical Archaeology 1–40 (London 1878/1879–1918). Fortsetzung in: JRAS.</dcterms:isPartOf>
+    <z:volume>33</z:volume>
+    <bib:pages>f</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_44">
+    <dc:title>NAWG 1991/II S</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Borger</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1991</dc:date>
+    <dcterms:isPartOf>Nachrichten der Akademie (bis 1940: der Gesellschaft) der Wissenschaften in Göttingen, Philosoph.-hist. Klasse (Göttingen 1941–2006). Fortsetzung von: Nachrichten von der Georg-Augusts-Universität und der Königlichen Gesellschaft der Wissenschaften zu Göttingen (Titel ab 1884 variierend) 1–8 (1845–1893).</dcterms:isPartOf>
+    <dc:description>confidence=0.8; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_45">
+    <dc:title>publiziert JNES 20 (1961) 155 unten, Nach JNES 20 155 ff</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>d K</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1961</dc:date>
+    <dcterms:isPartOf>Journal of Near Eastern Studies (Chicago 1942ff.). Fortsetzung von: AJSL.</dcterms:isPartOf>
+    <z:volume>20</z:volume>
+    <bib:pages>155 ff</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_46">
+    <dc:title>KAR 162</dc:title>
+    <dcterms:isPartOf>E. Ebeling, Keilschrifttexte aus Assur religiösen Inhalts, 1 (H. 1–4) –2 (H. 1–5[d. g. R. 5–9]) (= Ausgrabungen der DOG in Assur E/2 = WVDOG 28/1–4, 1915–1919; 34/1–5[d. g. R. 5–9], 1920–1923; Neudruck: Osnabrück 1972/70).</dcterms:isPartOf>
+    <bib:pages>162</bib:pages>
+    <dc:description>confidence=0.55; manuscript-ref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_47">
+    <dc:title>KAR 163</dc:title>
+    <dcterms:isPartOf>E. Ebeling, Keilschrifttexte aus Assur religiösen Inhalts, 1 (H. 1–4) –2 (H. 1–5[d. g. R. 5–9]) (= Ausgrabungen der DOG in Assur E/2 = WVDOG 28/1–4, 1915–1919; 34/1–5[d. g. R. 5–9], 1920–1923; Neudruck: Osnabrück 1972/70).</dcterms:isPartOf>
+    <bib:pages>163</bib:pages>
+    <dc:description>confidence=0.55; manuscript-ref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_48">
+    <dc:title>CT 13</dc:title>
+    <dcterms:isPartOf>Cuneiform Texts from Babylonian Tablets in the British Museum (London 1896ff.).</dcterms:isPartOf>
+    <bib:pages>13</bib:pages>
+    <dc:description>confidence=0.55; manuscript-ref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_49">
+    <dc:title>Das Fragment</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Langdon</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1923</dc:date>
+    <bib:pages>auf S</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_50">
+    <dc:title>The Babylonian Epic of Creation</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Langdon</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1923</dc:date>
+    <dcterms:isPartOf>Altorientalische Texte und Untersuchungen, 1–2 (Leiden/Breslau 1916–1921).</dcterms:isPartOf>
+    <z:volume>2/IV</z:volume>
+    <bib:pages>313 ff</bib:pages>
+    <dc:description>confidence=1.0; xref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_51">
+    <dc:title>The Babylonian Epic of Creation</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Langdon</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1923</dc:date>
+    <dcterms:isPartOf>Altorientalische Texte und Untersuchungen, 1–2 (Leiden/Breslau 1916–1921).</dcterms:isPartOf>
+    <z:volume>2/IV</z:volume>
+    <bib:pages>313 ff</bib:pages>
+    <dc:description>confidence=1.0; xref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_52">
+    <dc:title>Geers, Heft A 1 (1937</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Geers</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1937</dc:date>
+    <dcterms:isPartOf>R. Borger, Handbuch der Keilschriftliteratur, 1–3 (Berlin 1967–1975):
+1: Repertorium der sumerischen und akkadischen Texte (1967);
+2: Supplement zu Band 1; Anhang; Zur Kuyunjik-Sammlung (1975);
+3: Inhaltliche Ordnung der sumerischen und akkadischen Texte; Anhang; Sekundärliteratur in Auswahl (1975).</dcterms:isPartOf>
+    <z:volume>I 611 und II 357</z:volume>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_53">
+    <dc:title>KAR 117</dc:title>
+    <dcterms:isPartOf>E. Ebeling, Keilschrifttexte aus Assur religiösen Inhalts, 1 (H. 1–4) –2 (H. 1–5[d. g. R. 5–9]) (= Ausgrabungen der DOG in Assur E/2 = WVDOG 28/1–4, 1915–1919; 34/1–5[d. g. R. 5–9], 1920–1923; Neudruck: Osnabrück 1972/70).</dcterms:isPartOf>
+    <bib:pages>117</bib:pages>
+    <dc:description>confidence=0.55; manuscript-ref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_54">
+    <dc:title>Talons ungliickliche Lesung</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Von Labat</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1970</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_55">
+    <dc:title>unter Vergleichung mit L&amp;P [81] (Talon Z</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Z. a, wie von mir bereits</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1969</dc:date>
+    <dcterms:isPartOf>OLZ 64</dcterms:isPartOf>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_56">
+    <dc:title>S</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>B. Labat</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1970</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_57">
+    <dc:title>Borger, JCS 18 (1964</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Borger</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1964</dc:date>
+    <dcterms:isPartOf>Journal of Cuneiform Studies (New Haven/Boston etc. 1947ff.); Suppl. (Ser.) (Boston 2008ff.); offizielle Homepage: http://www.asor.org/pubs/jcs/index.html.</dcterms:isPartOf>
+    <z:volume>18</z:volume>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_58">
+    <dc:title>Wilson JNES 20 (1961</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Wilson</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1961</dc:date>
+    <dcterms:isPartOf>Journal of Near Eastern Studies (Chicago 1942ff.). Fortsetzung von: AJSL.</dcterms:isPartOf>
+    <z:volume>20</z:volume>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_59">
+    <dc:title>Zur Bedeutung von béru als Bezeichnung von Bergen</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>siche Borger</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1964</dc:date>
+    <dcterms:isPartOf>Journal of Cuneiform Studies (New Haven/Boston etc. 1947ff.); Suppl. (Ser.) (Boston 2008ff.); offizielle Homepage: http://www.asor.org/pubs/jcs/index.html.</dcterms:isPartOf>
+    <z:volume>18</z:volume>
+    <bib:pages>54 f</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_60">
+    <dc:title>Wilson JNES 20 (1961) 161</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Landsberger, CAD und Kinnier Wilson</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1961</dc:date>
+    <dcterms:isPartOf>Journal of Near Eastern Studies (Chicago 1942ff.). Fortsetzung von: AJSL.</dcterms:isPartOf>
+    <z:volume>20</z:volume>
+    <bib:pages>161</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_61">
+    <dc:title>Anm. 137a, geiindert in ANET</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>ANET</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1955</dc:date>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_62">
+    <dc:title>KAR 164</dc:title>
+    <dcterms:isPartOf>E. Ebeling, Keilschrifttexte aus Assur religiösen Inhalts, 1 (H. 1–4) –2 (H. 1–5[d. g. R. 5–9]) (= Ausgrabungen der DOG in Assur E/2 = WVDOG 28/1–4, 1915–1919; 34/1–5[d. g. R. 5–9], 1920–1923; Neudruck: Osnabrück 1972/70).</dcterms:isPartOf>
+    <bib:pages>164</bib:pages>
+    <dc:description>confidence=0.55; manuscript-ref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_63">
+    <dc:title>Frankena, a.a.O</dc:title>
+    <dc:description>confidence=0.1; xref</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_64">
+    <dc:title>ABZ (1978</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Das fragliche mit Lesung sirsir</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1978</dc:date>
+    <dcterms:isPartOf>R. Borger, Assyrisch-babylonische Zeichenliste (= AOAT 33, 1978; 19812 [Erg.-Heft]; 19863).</dcterms:isPartOf>
+    <bib:pages>usw. auf S</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_65">
+    <dc:title>Bibliographische Angaben zu diesen beiden Biichern finden sich in BiOr 63 (2006) Sp. 321</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Bibliographische Angaben zu diesen beiden Biichern finden sich in</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2006</dc:date>
+    <dcterms:isPartOf>Bibliotheca Orientalis, uitgegeven vanwege het Nederlands (anfänglich: Nederlandsch) instituut voor het Nabije Oosten te Leiden (Leiden 1943/1944ff.).</dcterms:isPartOf>
+    <z:volume>63</z:volume>
+    <bib:pages>Sp. 321</bib:pages>
+    <dc:description>confidence=0.9; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_66">
+    <dc:title>Akkadian RB</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Keilschriftfont</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2004</dc:date>
+    <dcterms:isPartOf>MesZL</dcterms:isPartOf>
+    <bib:pages>Marz</bib:pages>
+    <dc:description>confidence=0.8; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_67">
+    <dc:title>den von S</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Das fachfremde Unicode Consortium</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2006</dc:date>
+    <dc:description>confidence=0.7; journal-abbrev</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_68">
+    <dc:title>The world’s writing systems</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Daniels</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>1996</dc:date>
+    <bib:pages>Section 3</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_69">
+    <dc:title>Grammar of Akkadian</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Huehnergard</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2005</dc:date>
+    <dcterms:isPartOf>Second edition</dcterms:isPartOf>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_70">
+    <dc:title>Lécriture cunéiforme</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>L.-J. Bord</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2002</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_71">
+    <dc:title>Der Codex Hammurapi</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Herr Heinz-Dieter Viel</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2002</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_72">
+    <dc:title>Akkadian RB</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>Ganzes</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2004</dc:date>
+    <dcterms:isPartOf>MesZL</dcterms:isPartOf>
+    <bib:pages>Marz</bib:pages>
+    <dc:description>confidence=0.8; author-title-full</dc:description>
+  </bib:Article>
+  <bib:Article rdf:about="#item_73">
+    <dc:title>hatte ich ihm, trotz einer unerfreulichen</dc:title>
+    <bib:authors><rdf:Seq><rdf:li><foaf:Person xmlns:foaf="http://xmlns.com/foaf/0.1/"><foaf:surname>An- fang</foaf:surname></foaf:Person></rdf:li></rdf:Seq></bib:authors>
+    <dc:date>2001</dc:date>
+    <dc:description>confidence=0.7; author-title-full</dc:description>
+  </bib:Article>
+</rdf:RDF>
